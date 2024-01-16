@@ -7,6 +7,6 @@ A visual study on the lagging effect of post pandemic inflation. This project ut
 
 <img src="./assets/inflation_summary_table.png" width="650">
 
-### Inflation Expense Visual
+### Inflation Correlation by Asset
 
-<img src="./assets/expense_inflation_graph.png" width="650">
+<img src="./assets/box_plot_correlation.png" width="650">
