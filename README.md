@@ -3,6 +3,8 @@ A visual study on the lagging effect of post pandemic inflation. This project ut
 
 [project presentation PDF](visualizing_inflation_presentaion.pdf)
 
+[blog post](https://nycdatascience.com/blog/meetup/lagging-effects-of-inflation-visualizing-data-with-python/)
+
 ### Summary Table of Lagging Effects of Inflation
 
 <img src="./assets/inflation_summary_table.png" width="650">
